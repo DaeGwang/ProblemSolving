@@ -1,4 +1,3 @@
-package sec2;
 /*
 ID: eorhkd1
 LANG: JAVA
