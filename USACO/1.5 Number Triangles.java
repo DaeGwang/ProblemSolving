@@ -19,8 +19,6 @@ public class numtri {
 		
 		BufferedReader f = new BufferedReader(new FileReader("numtri.in"));
 		PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter("numtri.out")));
-		//StringTokenizer st = new StringTokenizer(f.readLine());
-		//A = Integer.parseInt(st.nextToken());  
 		
 		int n = Integer.parseInt(f.readLine());
 		int [][] data = new int[1001][1001];
