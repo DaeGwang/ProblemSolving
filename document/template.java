@@ -26,7 +26,7 @@ public class template {
 	}
 	
 	public static PrintWriter OutputWriter(String filename) throws IOException {
-		return new PrintWriter(new BufferedWriter(new FileWriter("subset.out")));
+		return new PrintWriter(new BufferedWriter(new FileWriter(filename)));
 	}
 
 }
