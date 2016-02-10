@@ -1,8 +1,6 @@
-flashnodePS
+Problem Solving Page
 ===========
 
-this project is collection of source code. 
-
-Topcoder
-Codeforces
-USACO 
+Algospot: http://algospot.com
+Codeforces: http://codeforces.com
+USACO
