@@ -27,7 +27,7 @@ int solve(int n, int m){
 
 int main()
 {
-	freopen("input.txt", "r", stdin);
+	//freopen("input.txt", "r", stdin);
 	int T = 0;
 	cin >> T;
 
