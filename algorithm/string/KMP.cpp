@@ -15,11 +15,9 @@ vector<int> makePi(string s){
 	int matched = 0;
 	for(int i=1; i<len; i++){
 		while(matched > 0 && s[matched] != s[i]){
-			matched = pi[matched];
+			matched = pi[matched-1];
 		}
-		if(s[i]==s[matched]){
-			matched++;
-		}
+		if(s[i]==s[matched]) matched++;
 		pi[i] = matched;
 	}
 	return pi;
@@ -29,9 +27,6 @@ vector<int> KMP(string s, string p){
 	int n = s.length(), m = p.length();
 	vector<int> ret;
 	vector<int> pi = makePi(p);
-	for(int i=0; i<(int)pi.size(); i++){
-		cout << pi[i] << endl;
-	}
 	int matched = 0;
 	for(int i=0; i<n; i++){
 		while(matched > 0 && p[matched] != s[i]){
