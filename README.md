@@ -1,7 +1,7 @@
 # Problem Solving Sources
 
 
-This Repository is Sources for Poblem Solving by me
+This Repository is Sources for Poblem Solving
 
 
 
