@@ -1,19 +1,13 @@
-# Problem Solving Sources
-
-
-Sources for Poblem Solving
-
-
+# Problem Solving Practice
 
 ### Online Judges
-
+ * Leetcode: https://leetcode.com
+ * Hackerrank: https://www.hackerrank.com
+ * Codeforces : https://codeforces.com
  * BOJ : https://acmicpc.net
  * Algospot : https://algospot.com
-
-### Competitive Programming Sites
-
- * Codeforces : https://codeforces.com
  * Topcoder : https://topcoder.com
 
-### LeetCode ( [Algorithms](https://leetcode.com/problemset/algorithms/) )
-- [Contiguous Array](https://leetcode.com/problems/contiguous-array/#/description) [ [C++](LeetCode/525.cpp) ]
+### Contests
+ * Google Code Jam: https://code.google.com/codejam/
+ * Facebook Hacker Cup: https://www.facebook.com/hackercup/contest
